@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My background is in Psychology.
+My interests are in 
+- entrepreneurship
+- innovation
+- UX
+- depolarisation
+- rehumanisation
+
+My code is poor-quality.
+
 <!--
 **Coder-Jake/Coder-jake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

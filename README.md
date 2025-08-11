@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 My background is in Psychology.
+
 My interests are in 
 - entrepreneurship
 - innovation
